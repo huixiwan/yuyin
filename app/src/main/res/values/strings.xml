@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">yyy</string>
+    <string name="main_tv_1">语音1</string>
+    <string name="main_btn_start">start</string>
+    <string name="main_btn_start2">start2</string>
+    <string name="main_btn_set">set</string>
+    <string name="main_btn_team">team</string>
+    <string name="main_btn_exit">exit</string>
+    <string name="main_btn_test">test</string>
+    <string name="main_btn_test2">test2</string>
+
+    <string name="set_tv_1">set</string>
+    <string name="set_btn_back">back</string>
+
+    <string name="team_tv_1">制作人：张文哲</string>
+    <string name="team_tv_2">指导老师：</string>
+    <string name="team_btn_back">back</string>
+
+    <string name="yuyin_tv_hint">input</string>
+    <string name="yuyin_btn_start">play</string>
+    <string name="yuyin_et_hint">输入文本</string>
+
+    <string name="anjian_g">g</string>
+    <string name="anjian_k">k</string>
+    <string name="anjian_h">h</string>
+    <string name="anjian_j">j</string>
+    <string name="anjian_q">q</string>
+    <string name="anjian_x">x</string>
+
+    <string name="anjian_b">b</string>
+    <string name="anjian_p">p</string>
+    <string name="anjian_f">f</string>
+    <string name="anjian_d">d</string>
+    <string name="anjian_t">t</string>
+    <string name="anjian_l">l</string>
+
+    <string name="anjian_zh">zh</string>
+    <string name="anjian_ch">ch</string>
+    <string name="anjian_sh">sh</string>
+    <string name="anjian_z">z</string>
+    <string name="anjian_c">c</string>
+    <string name="anjian_s">s</string>
+
+    <string name="anjian_r">r</string>
+    <string name="anjian_m">m</string>
+    <string name="anjian_n">n</string>
+    <string name="anjian_y">y</string>
+    <string name="anjian_w">w</string>
+    <string name="anjian_null"></string>
+
+    <string name="anjian_a">a</string>
+    <string name="anjian_o">o</string>
+    <string name="anjian_e">e</string>
+    <string name="anjian_i">i</string>
+    <string name="anjian_u">u</string>
+    <string name="anjian_v">v</string>
+
+    <string name="anjian_n2">n</string>
+    <string name="anjian_ng">ng</string>
+
+    <string name="anjian_1">1</string>
+    <string name="anjian_2">2</string>
+    <string name="anjian_3">3</string>
+    <string name="anjian_4">4</string>
+    <string name="anjian_5">5</string>
+
+    <string name="emotion_original">无</string>
+    <string name="emotion_happy">开心</string>
+    <string name="emotion_sad">伤心</string>
+    <string name="emotion_angry">生气</string>
+
+    <string name="yuyin_btn_qian_word">&#060;&#060;</string>
+    <string name="yuyin_btn_delete_letter">|&#060;-</string>
+    <string name="yuyin_btn_other">其他</string>
+    <string name="yuyin_btn_delete_word">&#060;&#060;-X</string>
+    <string name="yuyin_btn_hou_word">&#062;&#062;</string>
+    <string name="yuyin_btn_back">返回</string>
+</resources>
